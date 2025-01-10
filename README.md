@@ -219,6 +219,10 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 - 📊 **Data Aggregation**: Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
 - 💡 **Analytical Wizardry**: Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
 
+
+---
+
+
 ### Conclusions
 
 #### Insights
